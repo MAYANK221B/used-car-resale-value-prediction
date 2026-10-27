@@ -1,7 +1,7 @@
 # Business Problem
 
-A used car marketplace allows buyers and sellers to estimate the expected transaction value of a vehicle based on its characteristics and current market conditions.
+Used Car Auction Sale Price Prediction
 
-The platform collects relevant information about the car, such as its manufacturer, model, age, mileage, fuel type, transmission, and condition, and uses this information to predict the price at which a similar vehicle is likely to be sold.
+A used car auction platform wants to estimate the expected sale price of a vehicle before it is auctioned. The platform uses vehicle information such as manufacturer, model, age, mileage, fuel type, transmission, condition, and other available characteristics to estimate the price at which the vehicle is likely to sell.
 
-For sellers, the estimate can help them choose a realistic selling price. For buyers, it provides a reference point for understanding whether the asking price is reasonable compared with expected market value.
+This estimate can help dealerships, buyers, and auction teams make better bidding and purchasing decisions. It can also provide a reference value for identifying vehicles that may be overpriced or underpriced compared with similar cars in the market.
